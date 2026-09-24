@@ -38,7 +38,7 @@ Training is built on slime framework. This repository provides the custom rollou
 
 Required external components:
 
-- compatible THUDM/slime and Megatron-LM checkouts;
+- compatible slime and Megatron-LM checkouts;
 - actor checkpoints in Hugging Face and distributed-training formats;
 - an OpenAI-compatible audio-model endpoint;
 - training and validation JSONL files;
