@@ -34,7 +34,7 @@ Think2Listen/
 
 ## ⚙️ Training Environment
 
-Training is built on [THUDM/slime](https://github.com/THUDM/slime). This repository provides the custom rollout, reward, data-conversion, and loss hooks used by SLIME and is loaded through `PYTHONPATH`; it does not require a standalone editable installation.
+Training is built on slime framework. This repository provides the custom rollout, reward, data-conversion, and loss hooks used by SLIME and is loaded through `PYTHONPATH`; it does not require a standalone editable installation.
 
 Required external components:
 
