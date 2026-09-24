@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Run one Think2Listen interaction without starting a training job.
-
-This entry point is a compact, readable demonstration of the paper pipeline:
-an actor either asks for targeted audio evidence or returns a final answer.
-It is not a benchmark or metric-computation script.
-"""
+"""Run one Think2Listen interaction without starting a training job."""
 
 from __future__ import annotations
 
